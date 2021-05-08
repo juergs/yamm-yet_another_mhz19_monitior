@@ -1,4 +1,4 @@
-# YAMM - yet another mhz19 monitor
+# YAMM - yet another mh-z19 monitor
 
 <img src="https://github.com/juergs/yamm-yet_another_mhz19_monitior/blob/main/pics/FHEM_MHZ19_Infrastruktur.png"/>
 

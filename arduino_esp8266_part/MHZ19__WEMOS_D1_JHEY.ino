@@ -16,7 +16,7 @@
 #include <ArduinoJson.h>    
 #include "ArduinoTrace.h"                                  // TRACE() and DUMP(val) Macros
 
-  #define DATA_SERVER "192.168.178.25"        // Synology webserver@port 3000 (normally 80)
+  #define DATA_SERVER "192.168.xxx.yyy"        // Synology webserver@port 3000 (normally 80)
   #define WEB_SERVER_PORT 3000                //--- otherwise port 80 (hhtp)
   
   #define DATA_URL "/send.php"

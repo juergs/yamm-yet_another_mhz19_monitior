@@ -1,6 +1,6 @@
 # YAMM - yet another mh-z19 monitor
 
-[https://www.kane.co.uk/knowledge-centre/what-are-safe-levels-of-co-and-co2-in-rooms]
+https://www.kane.co.uk/knowledge-centre/what-are-safe-levels-of-co-and-co2-in-rooms
 
 <img src="https://github.com/juergs/yamm-yet_another_mhz19_monitior/blob/main/pics/FHEM_MHZ19_Infrastruktur.png"/>
 
